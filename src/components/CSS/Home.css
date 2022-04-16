@@ -1,0 +1,79 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.header-right{
+    width: 700px;
+    display: flex;
+    gap: 30px;
+    justify-content: space-around;
+}
+.exp{
+    font-size: 25px;
+    margin-left: 20px;
+    font-family: sans-serif;
+    font-weight: bolder;
+}
+.texts{
+    color: #6859d6;
+    cursor: pointer;
+}
+.circle{
+    color: #6859d6;
+    font-size: 25px;
+    position: relative;
+    top: 15%;
+}
+.option{
+    border: inherit;
+    font-weight: bolder;
+}
+.text2{
+    width: 100px;
+    border-radius: 25px;
+    background-color: #6859d6;
+    color: white;
+    text-align: center;
+    box-sizing: border-box;
+    padding-top: 5px;
+    cursor: pointer;
+}
+.middle{
+    width: 100%;
+    margin: auto;
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+.find{
+    width: 40%;
+    height: 400px;
+}
+.best-candidates{
+    text-align: left;
+    font-size: 35px;
+    float: left;
+    color: black;
+}
+.best-candidates1{
+    width: 70%;
+    margin-top: 100px;
+    text-align: left;
+}
+.best-candidates2{
+    width: 50%;
+    margin-top: 40px;
+    background-color: #6859d6;
+    color: white;
+    font-size: large;
+    font-family: sans-serif;
+    padding: 10px;
+    text-align: center;
+}
+
+.middle{
+    margin-left: -400px;   
+}
+
